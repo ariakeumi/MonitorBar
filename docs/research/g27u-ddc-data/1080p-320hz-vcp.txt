@@ -1,0 +1,257 @@
+VCP 0x00 unsupported current=    0 maximum=65535 type=1 raw=6E8802010001FFFF0000B4
+VCP 0x01 unsupported current=    0 maximum=65535 type=1 raw=6E8802010101FFFF0000B5
+VCP 0x02 supported   current=    1 maximum=    2 type=1 raw=6E880200020100020001B4
+VCP 0x03 unsupported current=    0 maximum=65535 type=1 raw=6E8802010301FFFF0000B7
+VCP 0x04 supported   current=    0 maximum=  255 type=1 raw=6E880200040100FF00004E
+VCP 0x05 supported   current=    0 maximum=    1 type=1 raw=6E880200050100010000B1
+VCP 0x06 supported   current=    0 maximum=  255 type=1 raw=6E880200060100FF00004C
+VCP 0x07 unsupported current=    0 maximum=65535 type=1 raw=6E8802010701FFFF0000B3
+VCP 0x08 supported   current=    0 maximum=  255 type=1 raw=6E880200080100FF000042
+VCP 0x09 unsupported current=    0 maximum=65535 type=1 raw=6E8802010901FFFF0000BD
+VCP 0x0A unsupported current=    0 maximum=65535 type=1 raw=6E8802010A01FFFF0000BE
+VCP 0x0B supported   current=    0 maximum=24028 type=1 raw=6E8802000B015DDC00003F
+VCP 0x0C supported   current=    2 maximum=  255 type=1 raw=6E8802000C0100FF000244
+VCP 0x0D unsupported current=    0 maximum=65535 type=1 raw=6E8802010D01FFFF0000B9
+VCP 0x0E supported   current=   50 maximum=  100 type=0 raw=6E8802000E0000640032EC
+VCP 0x0F unsupported current=    0 maximum=65535 type=1 raw=6E8802010F01FFFF0000BB
+VCP 0x10 supported   current=   34 maximum=  100 type=0 raw=6E880200100000640022E2
+VCP 0x11 unsupported current=    0 maximum=65535 type=1 raw=6E8802011101FFFF0000A5
+VCP 0x12 supported   current=   50 maximum=  100 type=0 raw=6E880200120000640032F0
+VCP 0x13 unsupported current=    0 maximum=65535 type=1 raw=6E8802011301FFFF0000A7
+VCP 0x14 supported   current=    5 maximum=   12 type=0 raw=6E8802001400000C0005A9
+VCP 0x15 unsupported current=    0 maximum=65535 type=1 raw=6E8802011501FFFF0000A1
+VCP 0x16 supported   current=   50 maximum=  100 type=0 raw=6E880200160000640032F4
+VCP 0x17 unsupported current=    0 maximum=65535 type=1 raw=6E8802011701FFFF0000A3
+VCP 0x18 supported   current=   50 maximum=  100 type=0 raw=6E880200180000640032FA
+VCP 0x19 unsupported current=    0 maximum=65535 type=1 raw=6E8802011901FFFF0000AD
+VCP 0x1A supported   current=   50 maximum=  100 type=0 raw=6E8802001A0000640032F8
+VCP 0x1B unsupported current=    0 maximum=65535 type=1 raw=6E8802011B01FFFF0000AF
+VCP 0x1C unsupported current=    0 maximum=65535 type=1 raw=6E8802011C01FFFF0000A8
+VCP 0x1D unsupported current=    0 maximum=65535 type=1 raw=6E8802011D01FFFF0000A9
+VCP 0x1E supported   current=    0 maximum=    2 type=1 raw=6E8802001E0100020000A9
+VCP 0x1F unsupported current=    0 maximum=65535 type=1 raw=6E8802011F01FFFF0000AB
+VCP 0x20 supported   current=    0 maximum=  100 type=0 raw=6E880200200000640000F0
+VCP 0x21 unsupported current=    0 maximum=65535 type=1 raw=6E8802012101FFFF000095
+VCP 0x22 unsupported current=    0 maximum=65535 type=1 raw=6E8802012201FFFF000096
+VCP 0x23 unsupported current=    0 maximum=65535 type=1 raw=6E8802012301FFFF000097
+VCP 0x24 unsupported current=    0 maximum=65535 type=1 raw=6E8802012401FFFF000090
+VCP 0x25 unsupported current=    0 maximum=65535 type=1 raw=6E8802012501FFFF000091
+VCP 0x26 unsupported current=    0 maximum=65535 type=1 raw=6E8802012601FFFF000092
+VCP 0x27 unsupported current=    0 maximum=65535 type=1 raw=6E8802012701FFFF000093
+VCP 0x28 unsupported current=    0 maximum=65535 type=1 raw=6E8802012801FFFF00009C
+VCP 0x29 unsupported current=    0 maximum=65535 type=1 raw=6E8802012901FFFF00009D
+VCP 0x2A unsupported current=    0 maximum=65535 type=1 raw=6E8802012A01FFFF00009E
+VCP 0x2B unsupported current=    0 maximum=65535 type=1 raw=6E8802012B01FFFF00009F
+VCP 0x2C unsupported current=    0 maximum=65535 type=1 raw=6E8802012C01FFFF000098
+VCP 0x2D unsupported current=    0 maximum=65535 type=1 raw=6E8802012D01FFFF000099
+VCP 0x2E unsupported current=    0 maximum=65535 type=1 raw=6E8802012E01FFFF00009A
+VCP 0x2F unsupported current=    0 maximum=65535 type=1 raw=6E8802012F01FFFF00009B
+VCP 0x30 supported   current=    0 maximum=  100 type=0 raw=6E880200300000640000E0
+VCP 0x31 unsupported current=    0 maximum=65535 type=1 raw=6E8802013101FFFF000085
+VCP 0x32 unsupported current=    0 maximum=65535 type=1 raw=6E8802013201FFFF000086
+VCP 0x33 unsupported current=    0 maximum=65535 type=1 raw=6E8802013301FFFF000087
+VCP 0x34 unsupported current=    0 maximum=65535 type=1 raw=6E8802013401FFFF000080
+VCP 0x35 unsupported current=    0 maximum=65535 type=1 raw=6E8802013501FFFF000081
+VCP 0x36 unsupported current=    0 maximum=65535 type=1 raw=6E8802013601FFFF000082
+VCP 0x37 unsupported current=    0 maximum=65535 type=1 raw=6E8802013701FFFF000083
+VCP 0x38 unsupported current=    0 maximum=65535 type=1 raw=6E8802013801FFFF00008C
+VCP 0x39 unsupported current=    0 maximum=65535 type=1 raw=6E8802013901FFFF00008D
+VCP 0x3A unsupported current=    0 maximum=65535 type=1 raw=6E8802013A01FFFF00008E
+VCP 0x3B unsupported current=    0 maximum=65535 type=1 raw=6E8802013B01FFFF00008F
+VCP 0x3C unsupported current=    0 maximum=65535 type=1 raw=6E8802013C01FFFF000088
+VCP 0x3D unsupported current=    0 maximum=65535 type=1 raw=6E8802013D01FFFF000089
+VCP 0x3E supported   current=   50 maximum=  100 type=0 raw=6E8802003E0000640032DC
+VCP 0x3F unsupported current=    0 maximum=65535 type=1 raw=6E8802013F01FFFF00008B
+VCP 0x40 unsupported current=    0 maximum=65535 type=1 raw=6E8802014001FFFF0000F4
+VCP 0x41 unsupported current=    0 maximum=65535 type=1 raw=6E8802014101FFFF0000F5
+VCP 0x42 unsupported current=    0 maximum=65535 type=1 raw=6E8802014201FFFF0000F6
+VCP 0x43 unsupported current=    0 maximum=65535 type=1 raw=6E8802014301FFFF0000F7
+VCP 0x44 unsupported current=    0 maximum=65535 type=1 raw=6E8802014401FFFF0000F0
+VCP 0x45 unsupported current=    0 maximum=65535 type=1 raw=6E8802014501FFFF0000F1
+VCP 0x46 unsupported current=    0 maximum=65535 type=1 raw=6E8802014601FFFF0000F2
+VCP 0x47 unsupported current=    0 maximum=65535 type=1 raw=6E8802014701FFFF0000F3
+VCP 0x48 unsupported current=    0 maximum=65535 type=1 raw=6E8802014801FFFF0000FC
+VCP 0x49 unsupported current=    0 maximum=65535 type=1 raw=6E8802014901FFFF0000FD
+VCP 0x4A unsupported current=    0 maximum=65535 type=1 raw=6E8802014A01FFFF0000FE
+VCP 0x4B unsupported current=    0 maximum=65535 type=1 raw=6E8802014B01FFFF0000FF
+VCP 0x4C unsupported current=    0 maximum=65535 type=1 raw=6E8802014C01FFFF0000F8
+VCP 0x4D unsupported current=    0 maximum=65535 type=1 raw=6E8802014D01FFFF0000F9
+VCP 0x4E unsupported current=    0 maximum=65535 type=1 raw=6E8802014E01FFFF0000FA
+VCP 0x4F unsupported current=    0 maximum=65535 type=1 raw=6E8802014F01FFFF0000FB
+VCP 0x50 unsupported current=    0 maximum=65535 type=1 raw=6E8802015001FFFF0000E4
+VCP 0x51 unsupported current=    0 maximum=65535 type=1 raw=6E8802015101FFFF0000E5
+VCP 0x52 supported   current=    0 maximum=  255 type=1 raw=6E880200520100FF000018
+VCP 0x53 unsupported current=    0 maximum=65535 type=1 raw=6E8802015301FFFF0000E7
+VCP 0x54 unsupported current=    0 maximum=65535 type=1 raw=6E8802015401FFFF0000E0
+VCP 0x55 unsupported current=    0 maximum=65535 type=1 raw=6E8802015501FFFF0000E1
+VCP 0x56 unsupported current=    0 maximum=65535 type=1 raw=6E8802015601FFFF0000E2
+VCP 0x57 unsupported current=    0 maximum=65535 type=1 raw=6E8802015701FFFF0000E3
+VCP 0x58 unsupported current=    0 maximum=65535 type=1 raw=6E8802015801FFFF0000EC
+VCP 0x59 unsupported current=    0 maximum=65535 type=1 raw=6E8802015901FFFF0000ED
+VCP 0x5A unsupported current=    0 maximum=65535 type=1 raw=6E8802015A01FFFF0000EE
+VCP 0x5B unsupported current=    0 maximum=65535 type=1 raw=6E8802015B01FFFF0000EF
+VCP 0x5C unsupported current=    0 maximum=65535 type=1 raw=6E8802015C01FFFF0000E8
+VCP 0x5D unsupported current=    0 maximum=65535 type=1 raw=6E8802015D01FFFF0000E9
+VCP 0x5E unsupported current=    0 maximum=65535 type=1 raw=6E8802015E01FFFF0000EA
+VCP 0x5F unsupported current=    0 maximum=65535 type=1 raw=6E8802015F01FFFF0000EB
+VCP 0x60 supported   current=   16 maximum=   22 type=0 raw=6E880200600000160010D2
+VCP 0x61 unsupported current=    0 maximum=65535 type=1 raw=6E8802016101FFFF0000D5
+VCP 0x62 supported   current=   48 maximum=  100 type=0 raw=6E88020062000064003082
+VCP 0x63 unsupported current=    0 maximum=65535 type=1 raw=6E8802016301FFFF0000D7
+VCP 0x64 unsupported current=    0 maximum=65535 type=1 raw=6E8802016401FFFF0000D0
+VCP 0x65 unsupported current=    0 maximum=65535 type=1 raw=6E8802016501FFFF0000D1
+VCP 0x66 unsupported current=    0 maximum=65535 type=1 raw=6E8802016601FFFF0000D2
+VCP 0x67 unsupported current=    0 maximum=65535 type=1 raw=6E8802016701FFFF0000D3
+VCP 0x68 unsupported current=    0 maximum=65535 type=1 raw=6E8802016801FFFF0000DC
+VCP 0x69 unsupported current=    0 maximum=65535 type=1 raw=6E8802016901FFFF0000DD
+VCP 0x6A unsupported current=    0 maximum=65535 type=1 raw=6E8802016A01FFFF0000DE
+VCP 0x6B unsupported current=    0 maximum=65535 type=1 raw=6E8802016B01FFFF0000DF
+VCP 0x6C supported   current=   48 maximum=  255 type=0 raw=6E8802006C0000FF003017
+VCP 0x6D unsupported current=    0 maximum=65535 type=1 raw=6E8802016D01FFFF0000D9
+VCP 0x6E supported   current=   48 maximum=  255 type=0 raw=6E8802006E0000FF003015
+VCP 0x6F unsupported current=    0 maximum=65535 type=1 raw=6E8802016F01FFFF0000DB
+VCP 0x70 supported   current=   48 maximum=  255 type=0 raw=6E880200700000FF00300B
+VCP 0x71 unsupported current=    0 maximum=65535 type=1 raw=6E8802017101FFFF0000C5
+VCP 0x72 unsupported current=    0 maximum=65535 type=1 raw=6E8802017201FFFF0000C6
+VCP 0x73 unsupported current=    0 maximum=65535 type=1 raw=6E8802017301FFFF0000C7
+VCP 0x74 unsupported current=    0 maximum=65535 type=1 raw=6E8802017401FFFF0000C0
+VCP 0x75 unsupported current=    0 maximum=65535 type=1 raw=6E8802017501FFFF0000C1
+VCP 0x76 unsupported current=    0 maximum=65535 type=1 raw=6E8802017601FFFF0000C2
+VCP 0x77 unsupported current=    0 maximum=65535 type=1 raw=6E8802017701FFFF0000C3
+VCP 0x78 unsupported current=    0 maximum=65535 type=1 raw=6E8802017801FFFF0000CC
+VCP 0x79 unsupported current=    0 maximum=65535 type=1 raw=6E8802017901FFFF0000CD
+VCP 0x7A unsupported current=    0 maximum=65535 type=1 raw=6E8802017A01FFFF0000CE
+VCP 0x7B unsupported current=    0 maximum=65535 type=1 raw=6E8802017B01FFFF0000CF
+VCP 0x7C unsupported current=    0 maximum=65535 type=1 raw=6E8802017C01FFFF0000C8
+VCP 0x7D unsupported current=    0 maximum=65535 type=1 raw=6E8802017D01FFFF0000C9
+VCP 0x7E unsupported current=    0 maximum=65535 type=1 raw=6E8802017E01FFFF0000CA
+VCP 0x7F unsupported current=    0 maximum=65535 type=1 raw=6E8802017F01FFFF0000CB
+VCP 0x80 unsupported current=    0 maximum=65535 type=1 raw=6E8802018001FFFF000034
+VCP 0x81 unsupported current=    0 maximum=65535 type=1 raw=6E8802018101FFFF000035
+VCP 0x82 unsupported current=    0 maximum=65535 type=1 raw=6E8802018201FFFF000036
+VCP 0x83 unsupported current=    0 maximum=65535 type=1 raw=6E8802018301FFFF000037
+VCP 0x84 unsupported current=    0 maximum=65535 type=1 raw=6E8802018401FFFF000030
+VCP 0x85 unsupported current=    0 maximum=65535 type=1 raw=6E8802018501FFFF000031
+VCP 0x86 unsupported current=    0 maximum=65535 type=1 raw=6E8802018601FFFF000032
+VCP 0x87 unsupported current=    0 maximum=65535 type=1 raw=6E8802018701FFFF000033
+VCP 0x88 unsupported current=    0 maximum=65535 type=1 raw=6E8802018801FFFF00003C
+VCP 0x89 unsupported current=    0 maximum=65535 type=1 raw=6E8802018901FFFF00003D
+VCP 0x8A unsupported current=    0 maximum=65535 type=1 raw=6E8802018A01FFFF00003E
+VCP 0x8B unsupported current=    0 maximum=65535 type=1 raw=6E8802018B01FFFF00003F
+VCP 0x8C unsupported current=    0 maximum=65535 type=1 raw=6E8802018C01FFFF000038
+VCP 0x8D unsupported current=    0 maximum=65535 type=1 raw=6E8802018D01FFFF000039
+VCP 0x8E unsupported current=    0 maximum=65535 type=1 raw=6E8802018E01FFFF00003A
+VCP 0x8F unsupported current=    0 maximum=65535 type=1 raw=6E8802018F01FFFF00003B
+VCP 0x90 unsupported current=    0 maximum=65535 type=1 raw=6E8802019001FFFF000024
+VCP 0x91 unsupported current=    0 maximum=65535 type=1 raw=6E8802019101FFFF000025
+VCP 0x92 unsupported current=    0 maximum=65535 type=1 raw=6E8802019201FFFF000026
+VCP 0x93 unsupported current=    0 maximum=65535 type=1 raw=6E8802019301FFFF000027
+VCP 0x94 unsupported current=    0 maximum=65535 type=1 raw=6E8802019401FFFF000020
+VCP 0x95 unsupported current=    0 maximum=65535 type=1 raw=6E8802019501FFFF000021
+VCP 0x96 unsupported current=    0 maximum=65535 type=1 raw=6E8802019601FFFF000022
+VCP 0x97 unsupported current=    0 maximum=65535 type=1 raw=6E8802019701FFFF000023
+VCP 0x98 unsupported current=    0 maximum=65535 type=1 raw=6E8802019801FFFF00002C
+VCP 0x99 unsupported current=    0 maximum=65535 type=1 raw=6E8802019901FFFF00002D
+VCP 0x9A unsupported current=    0 maximum=65535 type=1 raw=6E8802019A01FFFF00002E
+VCP 0x9B unsupported current=    0 maximum=65535 type=1 raw=6E8802019B01FFFF00002F
+VCP 0x9C unsupported current=    0 maximum=65535 type=1 raw=6E8802019C01FFFF000028
+VCP 0x9D unsupported current=    0 maximum=65535 type=1 raw=6E8802019D01FFFF000029
+VCP 0x9E unsupported current=    0 maximum=65535 type=1 raw=6E8802019E01FFFF00002A
+VCP 0x9F unsupported current=    0 maximum=65535 type=1 raw=6E8802019F01FFFF00002B
+VCP 0xA0 unsupported current=    0 maximum=65535 type=1 raw=6E880201A001FFFF000014
+VCP 0xA1 unsupported current=    0 maximum=65535 type=1 raw=6E880201A101FFFF000015
+VCP 0xA2 unsupported current=    0 maximum=65535 type=1 raw=6E880201A201FFFF000016
+VCP 0xA3 unsupported current=    0 maximum=65535 type=1 raw=6E880201A301FFFF000017
+VCP 0xA4 unsupported current=    0 maximum=65535 type=1 raw=6E880201A401FFFF000010
+VCP 0xA5 unsupported current=    0 maximum=65535 type=1 raw=6E880201A501FFFF000011
+VCP 0xA6 unsupported current=    0 maximum=65535 type=1 raw=6E880201A601FFFF000012
+VCP 0xA7 unsupported current=    0 maximum=65535 type=1 raw=6E880201A701FFFF000013
+VCP 0xA8 supported   current=    0 maximum=    3 type=1 raw=6E880200A801000300001E
+VCP 0xA9 unsupported current=    0 maximum=65535 type=1 raw=6E880201A901FFFF00001D
+VCP 0xAA supported   current=    1 maximum=  255 type=1 raw=6E880200AA0100FF0001E1
+VCP 0xAB unsupported current=    0 maximum=65535 type=1 raw=6E880201AB01FFFF00001F
+VCP 0xAC supported   current=35920 maximum=    5 type=1 raw=6E880200AC0100058C50C0
+VCP 0xAD unsupported current=    0 maximum=65535 type=1 raw=6E880201AD01FFFF000019
+VCP 0xAE supported   current=31895 maximum=    0 type=1 raw=6E880200AE0100007C97F0
+VCP 0xAF unsupported current=    0 maximum=65535 type=1 raw=6E880201AF01FFFF00001B
+VCP 0xB0 supported   current=    0 maximum=  255 type=1 raw=6E880200B00100FF0000FA
+VCP 0xB1 unsupported current=    0 maximum=65535 type=1 raw=6E880201B101FFFF000005
+VCP 0xB2 supported   current=    1 maximum=    8 type=1 raw=6E880200B201000800010E
+VCP 0xB3 unsupported current=    0 maximum=65535 type=1 raw=6E880201B301FFFF000007
+VCP 0xB4 supported   current=    1 maximum=    2 type=1 raw=6E880200B4010002000102
+VCP 0xB5 unsupported current=    0 maximum=65535 type=1 raw=6E880201B501FFFF000001
+VCP 0xB6 supported   current=    3 maximum=    5 type=1 raw=6E880200B6010005000305
+VCP 0xB7 unsupported current=    0 maximum=65535 type=1 raw=6E880201B701FFFF000003
+VCP 0xB8 unsupported current=    0 maximum=65535 type=1 raw=6E880201B801FFFF00000C
+VCP 0xB9 unsupported current=    0 maximum=65535 type=1 raw=6E880201B901FFFF00000D
+VCP 0xBA unsupported current=    0 maximum=65535 type=1 raw=6E880201BA01FFFF00000E
+VCP 0xBB unsupported current=    0 maximum=65535 type=1 raw=6E880201BB01FFFF00000F
+VCP 0xBC unsupported current=    0 maximum=65535 type=1 raw=6E880201BC01FFFF000008
+VCP 0xBD unsupported current=    0 maximum=65535 type=1 raw=6E880201BD01FFFF000009
+VCP 0xBE unsupported current=    0 maximum=65535 type=1 raw=6E880201BE01FFFF00000A
+VCP 0xBF unsupported current=    0 maximum=65535 type=1 raw=6E880201BF01FFFF00000B
+VCP 0xC0 supported   current= 4609 maximum=65535 type=1 raw=6E880200C001FFFF120166
+VCP 0xC1 unsupported current=    0 maximum=65535 type=1 raw=6E880201C101FFFF000075
+VCP 0xC2 unsupported current=    0 maximum=65535 type=1 raw=6E880201C201FFFF000076
+VCP 0xC3 unsupported current=    0 maximum=65535 type=1 raw=6E880201C301FFFF000077
+VCP 0xC4 unsupported current=    0 maximum=65535 type=1 raw=6E880201C401FFFF000070
+VCP 0xC5 unsupported current=    0 maximum=65535 type=1 raw=6E880201C501FFFF000071
+VCP 0xC6 supported   current=17868 maximum=65535 type=1 raw=6E880200C601FFFF45CCFA
+VCP 0xC7 unsupported current=    0 maximum=65535 type=1 raw=6E880201C701FFFF000073
+VCP 0xC8 supported   current=22021 maximum=    0 type=1 raw=6E880200C801000056052E
+VCP 0xC9 supported   current=    0 maximum=65535 type=1 raw=6E880200C901FFFF00007C
+VCP 0xCA supported   current=    2 maximum=    2 type=1 raw=6E880200CA01000200027F
+VCP 0xCB unsupported current=    0 maximum=65535 type=1 raw=6E880201CB01FFFF00007F
+VCP 0xCC supported   current=   13 maximum=    2 type=0 raw=6E880200CC000002000D77
+VCP 0xCD unsupported current=    0 maximum=65535 type=1 raw=6E880201CD01FFFF000079
+VCP 0xCE unsupported current=    0 maximum=65535 type=1 raw=6E880201CE01FFFF00007A
+VCP 0xCF unsupported current=    0 maximum=65535 type=1 raw=6E880201CF01FFFF00007B
+VCP 0xD0 unsupported current=    0 maximum=65535 type=1 raw=6E880201D001FFFF000064
+VCP 0xD1 unsupported current=    0 maximum=65535 type=1 raw=6E880201D101FFFF000065
+VCP 0xD2 unsupported current=    0 maximum=65535 type=1 raw=6E880201D201FFFF000066
+VCP 0xD3 unsupported current=    0 maximum=65535 type=1 raw=6E880201D301FFFF000067
+VCP 0xD4 unsupported current=    0 maximum=65535 type=1 raw=6E880201D401FFFF000060
+VCP 0xD5 unsupported current=    0 maximum=65535 type=1 raw=6E880201D501FFFF000061
+VCP 0xD6 supported   current=    1 maximum=  255 type=1 raw=6E880200D60100FF00019D
+VCP 0xD7 unsupported current=    0 maximum=65535 type=1 raw=6E880201D701FFFF000063
+VCP 0xD8 unsupported current=    0 maximum=65535 type=1 raw=6E880201D801FFFF00006C
+VCP 0xD9 unsupported current=    0 maximum=65535 type=1 raw=6E880201D901FFFF00006D
+VCP 0xDA unsupported current=    0 maximum=65535 type=1 raw=6E880201DA01FFFF00006E
+VCP 0xDB unsupported current=    0 maximum=65535 type=1 raw=6E880201DB01FFFF00006F
+VCP 0xDC supported   current=    0 maximum=  255 type=0 raw=6E880200DC0000FF000097
+VCP 0xDD unsupported current=    0 maximum=65535 type=1 raw=6E880201DD01FFFF000069
+VCP 0xDE unsupported current=    0 maximum=65535 type=1 raw=6E880201DE01FFFF00006A
+VCP 0xDF supported   current=  513 maximum=  255 type=1 raw=6E880200DF0100FF020196
+VCP 0xE0 unsupported current=    0 maximum=65535 type=1 raw=6E880201E001FFFF000054
+VCP 0xE1 unsupported current=    0 maximum=65535 type=1 raw=6E880201E101FFFF000055
+VCP 0xE2 unsupported current=    0 maximum=65535 type=1 raw=6E880201E201FFFF000056
+VCP 0xE3 supported   current=    0 maximum=    1 type=0 raw=6E880200E3000001000056
+VCP 0xE4 unsupported current=    0 maximum=65535 type=1 raw=6E880201E401FFFF000050
+VCP 0xE5 unsupported current=    0 maximum=65535 type=1 raw=6E880201E501FFFF000051
+VCP 0xE6 supported   current=    0 maximum=    1 type=0 raw=6E880200E6000001000053
+VCP 0xE7 unsupported current=    0 maximum=65535 type=1 raw=6E880201E701FFFF000053
+VCP 0xE8 unsupported current=    0 maximum=65535 type=1 raw=6E880201E801FFFF00005C
+VCP 0xE9 unsupported current=    0 maximum=65535 type=1 raw=6E880201E901FFFF00005D
+VCP 0xEA unsupported current=    0 maximum=65535 type=1 raw=6E880201EA01FFFF00005E
+VCP 0xEB unsupported current=    0 maximum=65535 type=1 raw=6E880201EB01FFFF00005F
+VCP 0xEC unsupported current=    0 maximum=65535 type=1 raw=6E880201EC01FFFF000058
+VCP 0xED unsupported current=    0 maximum=65535 type=1 raw=6E880201ED01FFFF000059
+VCP 0xEE unsupported current=    0 maximum=65535 type=1 raw=6E880201EE01FFFF00005A
+VCP 0xEF unsupported current=    0 maximum=65535 type=1 raw=6E880201EF01FFFF00005B
+VCP 0xF0 unsupported current=    0 maximum=65535 type=1 raw=6E880201F001FFFF000044
+VCP 0xF1 unsupported current=    0 maximum=65535 type=1 raw=6E880201F101FFFF000045
+VCP 0xF2 unsupported current=    0 maximum=65535 type=1 raw=6E880201F201FFFF000046
+VCP 0xF3 unsupported current=    0 maximum=65535 type=1 raw=6E880201F301FFFF000047
+VCP 0xF4 unsupported current=    0 maximum=65535 type=1 raw=6E880201F401FFFF000040
+VCP 0xF5 unsupported current=    0 maximum=65535 type=1 raw=6E880201F501FFFF000041
+VCP 0xF6 unsupported current=    0 maximum=65535 type=1 raw=6E880201F601FFFF000042
+VCP 0xF7 unsupported current=    0 maximum=65535 type=1 raw=6E880201F701FFFF000043
+VCP 0xF8 unsupported current=    0 maximum=65535 type=1 raw=6E880201F801FFFF00004C
+VCP 0xF9 unsupported current=    0 maximum=65535 type=1 raw=6E880201F901FFFF00004D
+VCP 0xFA supported   current=    0 maximum=65535 type=1 raw=6E880200FA01FFFF00004F
+VCP 0xFB invalid     current=    0 maximum=65535 type=1 raw=6E8201FB4601FFFF00004F
+VCP 0xFC unsupported current=    0 maximum=65535 type=1 raw=6E880201FC01FFFF000048
+VCP 0xFD supported   current=  116 maximum=65535 type=1 raw=6E880200FD01FFFF00743C
+VCP 0xFE unsupported current=    0 maximum=65535 type=1 raw=6E880201FE01FFFF00004A
+VCP 0xFF supported   current=    0 maximum=65535 type=1 raw=6E880200FF01FFFF00004A
+TOTAL supported=46 unsupported=209 invalid=1

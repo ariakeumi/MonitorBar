@@ -1,0 +1,36 @@
+READ PASS 1
+GET 0x03 packet_valid=1 opcode=0x02 result=1 raw=6E8802010301FFFF0000B7
+GET 0xB1 packet_valid=1 opcode=0x02 result=1 raw=6E880201B101FFFF000005
+GET 0xB4 packet_valid=1 opcode=0x02 result=0 raw=6E880200B4010002000102
+GET 0xE3 packet_valid=1 opcode=0x02 result=0 raw=6E880200E3000001000056
+GET 0xE6 packet_valid=1 opcode=0x02 result=0 raw=6E880200E6000001000053
+GET 0xFA packet_valid=1 opcode=0x02 result=0 raw=6E880200FA01FFFF00004F
+GET 0xFB packet_valid=1 opcode=0x01 result=251 raw=6E8201FB4601FFFF00004F
+GET 0xFD packet_valid=1 opcode=0x02 result=0 raw=6E880200FD01FFFF00743C
+GET 0xFF packet_valid=1 opcode=0x02 result=0 raw=6E880200FF01FFFF00743E
+READ PASS 2
+GET 0x03 packet_valid=1 opcode=0x02 result=1 raw=6E8802010301FFFF0000B7
+GET 0xB1 packet_valid=1 opcode=0x02 result=1 raw=6E880201B101FFFF000005
+GET 0xB4 packet_valid=1 opcode=0x02 result=0 raw=6E880200B4010002000102
+GET 0xE3 packet_valid=1 opcode=0x02 result=0 raw=6E880200E3000001000056
+GET 0xE6 packet_valid=1 opcode=0x02 result=0 raw=6E880200E6000001000053
+GET 0xFA packet_valid=1 opcode=0x02 result=0 raw=6E880200FA01FFFF00004F
+GET 0xFB packet_valid=1 opcode=0x01 result=251 raw=6E8201FB4601FFFF00004F
+GET 0xFD packet_valid=1 opcode=0x02 result=0 raw=6E880200FD01FFFF00743C
+GET 0xFF packet_valid=1 opcode=0x02 result=0 raw=6E880200FF01FFFF00743E
+READ PASS 3
+GET 0x03 packet_valid=1 opcode=0x02 result=1 raw=6E8802010301FFFF0000B7
+GET 0xB1 packet_valid=1 opcode=0x02 result=1 raw=6E880201B101FFFF000005
+GET 0xB4 packet_valid=1 opcode=0x02 result=0 raw=6E880200B4010002000102
+GET 0xE3 packet_valid=1 opcode=0x02 result=0 raw=6E880200E3000001000056
+GET 0xE6 packet_valid=1 opcode=0x02 result=0 raw=6E880200E6000001000053
+GET 0xFA packet_valid=1 opcode=0x02 result=0 raw=6E880200FA01FFFF00004F
+GET 0xFB packet_valid=1 opcode=0x01 result=251 raw=6E8201FB4601FFFF00004F
+GET 0xFD packet_valid=1 opcode=0x02 result=0 raw=6E880200FD01FFFF00743C
+GET 0xFF packet_valid=1 opcode=0x02 result=0 raw=6E880200FF01FFFF00743E
+GET 0x10 packet_valid=1 opcode=0x02 result=0 raw=6E880200100000640022E2
+BRIGHTNESS baseline=34 target=35 max=100
+GET 0x10 packet_valid=1 opcode=0x02 result=0 raw=6E880200100000640023E3
+BRIGHTNESS write_verified=1 current=35
+GET 0x10 packet_valid=1 opcode=0x02 result=0 raw=6E880200100000640022E2
+BRIGHTNESS restore_verified=1 current=34
